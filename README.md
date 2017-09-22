@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Title
 
 This is a reminder of a few methods to work with arrays in vanilla js based on the 30 days Javascript challenge.
@@ -11,3 +12,6 @@ This is a reminder of a few methods to work with arrays in vanilla js based on t
 
 
 
+=======
+arraycardio
+>>>>>>> 9fe343700722ed0b9ae283a0502f35f301a269c4
